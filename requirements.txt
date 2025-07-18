@@ -1,0 +1,4 @@
+streamlit==1.35.0
+
+https://parsingresume.streamlit.app/
+
